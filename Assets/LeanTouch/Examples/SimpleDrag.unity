@@ -139,7 +139,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
-  m_BackGroundColor: {r: 0, g: 0, b: 0, a: 0.019607844}
+  m_BackGroundColor: {r: 0.16927983, g: 0.48166618, b: 0.74264705, a: 0.019607844}
   m_NormalizedViewPortRect:
     serializedVersion: 2
     x: 0
@@ -207,7 +207,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7c3e64dbbacee844a9b870c430962aa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  LayerMask: {}
+  LayerMask:
+    serializedVersion: 2
+    m_Bits: 4294967291
 --- !u!23 &699808809
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -299,7 +301,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7c3e64dbbacee844a9b870c430962aa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  LayerMask: {}
+  LayerMask:
+    serializedVersion: 2
+    m_Bits: 4294967291
 --- !u!23 &743033885
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -391,7 +395,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7c3e64dbbacee844a9b870c430962aa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  LayerMask: {}
+  LayerMask:
+    serializedVersion: 2
+    m_Bits: 4294967291
 --- !u!23 &803942592
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -639,7 +645,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7c3e64dbbacee844a9b870c430962aa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  LayerMask: {}
+  LayerMask:
+    serializedVersion: 2
+    m_Bits: 4294967291
 --- !u!23 &1620206684
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -931,7 +939,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7c3e64dbbacee844a9b870c430962aa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  LayerMask: {}
+  LayerMask:
+    serializedVersion: 2
+    m_Bits: 4294967291
 --- !u!23 &1975662801
 MeshRenderer:
   m_ObjectHideFlags: 0
