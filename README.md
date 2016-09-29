@@ -1,7 +1,11 @@
 # EMtalksAR
 ## Currently on Ver 2.0
 
+<<<<<<< HEAD
 [!(https://img.youtube.com/vi/V3utlC9VZpE/0.jpg)](http://www.youtube.com/watch?v=V3utlC9VZpE)
+=======
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/V3utlC9VZpE/0.jpg)](http://www.youtube.com/watch?v=V3utlC9VZpE)
+>>>>>>> 5ef80aa92da1e625e826c96939b1def6fa562a6c
 
 Click image to watch demo
 
@@ -25,4 +29,9 @@ I apologize for the shaky video quality, this video was screen recorded on my iP
 
 
 ### My info
+<<<<<<< HEAD
 [![Alt](http://files.softicons.com/download/internet-icons/social-networking-icons-by-komodomedia/png/32/linkedin.png)](https://www.linkedin.com/in/louislinkedin)
+=======
+LinkedIn: https://www.linkedin.com/in/louislinkedin
+GitHub: https://github.com/louisiaegerv/
+>>>>>>> 5ef80aa92da1e625e826c96939b1def6fa562a6c
