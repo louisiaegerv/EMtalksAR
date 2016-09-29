@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: 065f225e93a79469c8aa171276b33679
+timeCreated: 1475083570
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Layer:181
+    100002: Layer:182
+    100004: Layer:183
+    100006: Layer:184
+    100008: Layer:185
+    100010: //RootNode
+    100012: Stage_01
+    100014: Stage_VRayLight_01
+    100016: Stage_VRayLight_02
+    100018: Stage_VRayLight_03
+    100020: Stage_VRayLight_04
+    100022: VRayPhysicalCamera_001
+    100024: VRayPhysicalCamera_001.Target
+    100026: VRayPhysicalCamera_002
+    100028: VRayPhysicalCamera_002.Target
+    100030: VRayPhysicalCamera_003
+    100032: VRayPhysicalCamera_003.Target
+    100034: VRayPhysicalCamera_004
+    100036: VRayPhysicalCamera_004.Target
+    100038: VRayPhysicalCamera_005
+    100040: VRayPhysicalCamera_005.Target
+    400000: Layer:181
+    400002: Layer:182
+    400004: Layer:183
+    400006: Layer:184
+    400008: Layer:185
+    400010: //RootNode
+    400012: Stage_01
+    400014: Stage_VRayLight_01
+    400016: Stage_VRayLight_02
+    400018: Stage_VRayLight_03
+    400020: Stage_VRayLight_04
+    400022: VRayPhysicalCamera_001
+    400024: VRayPhysicalCamera_001.Target
+    400026: VRayPhysicalCamera_002
+    400028: VRayPhysicalCamera_002.Target
+    400030: VRayPhysicalCamera_003
+    400032: VRayPhysicalCamera_003.Target
+    400034: VRayPhysicalCamera_004
+    400036: VRayPhysicalCamera_004.Target
+    400038: VRayPhysicalCamera_005
+    400040: VRayPhysicalCamera_005.Target
+    2300000: Layer:181
+    2300002: Layer:182
+    2300004: Layer:183
+    2300006: Layer:184
+    2300008: Layer:185
+    2300010: Stage_01
+    3300000: Layer:181
+    3300002: Layer:182
+    3300004: Layer:183
+    3300006: Layer:184
+    3300008: Layer:185
+    3300010: Stage_01
+    4300000: Stage_01
+    4300002: Layer:182
+    4300004: Layer:181
+    4300006: Layer:183
+    4300008: Layer:184
+    4300010: Layer:185
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

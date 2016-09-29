@@ -38,7 +38,7 @@ public class SimpleSelect : MonoBehaviour
 
 			SelectedGameObject = hit.collider.gameObject;
 
-			ColorGameObject(SelectedGameObject, Color.green);
+			ColorGameObject(SelectedGameObject, Color.yellow);
 		}
 	}
 

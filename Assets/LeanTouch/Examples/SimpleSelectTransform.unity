@@ -392,8 +392,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
+  m_Size: {x: 2.5677004, y: 1.378032, z: 2.2588582}
+  m_Center: {x: -0.40005922, y: 0.18901587, z: -0.17325759}
 --- !u!33 &803942594
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -534,7 +534,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2fffe4c129e4e5144bd77332251a0037, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  LayerMask: {}
+  LayerMask:
+    serializedVersion: 2
+    m_Bits: 4294967291
   SelectedGameObject: {fileID: 0}
   AllowTranslate: 1
   AllowRotate: 1
